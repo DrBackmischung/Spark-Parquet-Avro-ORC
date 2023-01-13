@@ -1,0 +1,34 @@
+{
+  "type": "record",
+  "name": "Record",
+  "fields": [
+    {
+      "name": "id",
+      "type": "string"
+    },
+    {
+      "name": "firstname",
+      "type": "string"
+    },
+    {
+      "name": "lastname",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    },
+    {
+      "name": "birthday",
+      "type": "string"
+    },
+    {
+      "name": "department",
+      "type": "string"
+    },
+    {
+      "name": "origin",
+      "type": "string"
+    }
+  ]
+}
